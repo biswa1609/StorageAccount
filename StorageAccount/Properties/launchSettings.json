@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StorageAccount": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
